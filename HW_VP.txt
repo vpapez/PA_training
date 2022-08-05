@@ -1,1 +1,3 @@
-Hello world! Edit 2
+Hello world! Edit 
+
+Another edit without previous sync.
