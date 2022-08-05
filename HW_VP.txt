@@ -1,1 +1,3 @@
 Hello world
+
+I've edited this file without a provious PULL from GitHub.
